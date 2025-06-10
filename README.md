@@ -27,11 +27,11 @@
 
 1. Клонируйте репозиторий
    ```bash
-   git clone https://github.com/Sonchello/report_portal.git
+   git clone https://github.com/Sonchello/test_report_portal.git
    ```
 2. Перейдите в папку проекта
    ```bash
-   cd report_portal
+   cd test_report_portal
    ```
 3. Запустите тесты
    ```bash
